@@ -1,5 +1,8 @@
 #include <iostream>
-
+/*
+ * 主函数
+ * 读取三个值, 计算结果
+ */
 int main() {
     std::cout << "hello Jimmy!" << std::endl;
     int v1 = 0, v2 = 0, v3 = 0;

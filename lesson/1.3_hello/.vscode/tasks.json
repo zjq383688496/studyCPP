@@ -8,6 +8,8 @@
             "type": "shell",
             "command": "c++",
             "args": [
+                "-o",
+                "main",
                 "main.cpp"
             ],
             "group": {
